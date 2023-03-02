@@ -1,0 +1,8 @@
+{
+  "name": "@graph-repro/test",
+  "version": "0.0.1",
+  "type": "commonjs",
+  "dependencies": {
+    "@graph-repro/test2": "*"
+  }
+}
